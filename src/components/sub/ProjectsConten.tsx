@@ -13,22 +13,40 @@ const projects = [
     title: "Pet House Food & Care",
     tech: ["React", "Tailwind", "Laravel"],
     description:
-      "Admin dashboard for an e-commerce platform. Real-time stats, user management, and product analytics. Built with Next.js and Chart.js.",
+      "A responsive admin dashboard for managing an online pet shop. Includes real-time statistics, user and product management, and insightful analytics. Built with Next.js, Laravel, and Chart.js for a seamless full-stack experience.",
     link: "https://pethouse.click/",
     image: "/template.png",
   },
   {
-    title: "E-commerce Dashboard",
+    title: "Kumo - Shop Thời Trang",
     description:
-      "Admin dashboard for an e-commerce platform. Real-time stats, user management, and product analytics. Built with Next.js and Chart.js.",
-    tech: ["Next.js", "Tailwind", "Chart.js"],
+      "A fashion e-commerce admin dashboard for managing orders, users, and product inventory.",
+    tech: ["TypeScript", "Boostrap", "Node"],
+    link: "#",
+    image: "/3.png",
+  },
+  {
+    title: "Cinenet - Xem phim nhanh chóng",
+    description:
+      "A modern and reusable UI component library designed entirely in Figma. Includes buttons, modals, tooltips, forms, and other interactive elements — focusing on clean design, consistency, and user experience.",
+    tech: ["UI/UX" , "Figma"],
+     image: "/4.png",
     link: "#",
   },
   {
-    title: "UI Component Library",
+    title: "Shop Thời Trang Mini",
     description:
-      "Reusable UI components built in TypeScript and styled with Tailwind CSS. Includes buttons, modals, tooltips, and more.",
-    tech: ["TypeScript", "Tailwind", "Storybook"],
+      "A mini e-commerce web application developed with Angular for the frontend and MySQL for data management. Includes product listings, category filtering, cart features, and a responsive user interface.",
+    tech: ["Angular" , "MySQL"],
+     image: "/image.png",
+    link: "#",
+  },
+  {
+    title: "PhuongTin Food",
+    description:
+      "A simple and responsive website for a food business, built entirely using default WordPress configuration. Includes customized pages, menus, and content managed through the WordPress admin panel.",
+    tech: ["WordPress"],
+     image: "/5.png",
     link: "#",
   },
 ];
